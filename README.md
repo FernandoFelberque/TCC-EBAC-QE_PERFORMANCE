@@ -1,4 +1,4 @@
-# TCC-EBAC-QE_PERFORMANCE
+# TCC- Testes de PERFORMANCE
 
 Trabalho de Conclusão de Curso - Teste de Performance utilizando K6
 
